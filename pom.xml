@@ -29,6 +29,5 @@
                 </configuration>
             </plugin>
     </plugins>
-    <finalName>Demo</finalName>
     </build>
 </projec>
